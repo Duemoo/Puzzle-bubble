@@ -1,0 +1,18 @@
+﻿  Main.cpp
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\include\FI\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(94,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(222,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(279,49): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(296,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(316,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(331,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(346,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(396,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(416,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(459,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(471,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(533,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(536,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(587,34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Puzzle Bubble\Main.cpp(305): warning C4715: 'nearestBorder': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Puzzle Bubble.vcxproj -> C:\Users\Duelmue\Desktop\PM Term Project_2018-19063_장호연\Puzzle Bubble\Debug\Puzzle Bubble.exe
